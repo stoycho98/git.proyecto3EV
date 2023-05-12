@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oferta>
+  <vehiculo garantia="seis meses">
+    <marca>Ford</marca>
+    <modelo color="gris">Focus</modelo>
+    <motor combustible="gasolina">Duratore 1.4</motor>
+    <matricula año="2020-05">3258ABC</matricula>
+    <kilometros>25463</kilometros>
+    <precioOriginal>12350</precioOriginal>
+    <precioOferta>11200</precioOferta>
+    <extras>
+      <extra valor="250">Pintura metalizada</extra>
+      <extra valor="300">Llantas</extra>
+    </extras>
+  </vehiculo>
+  <vehiculo garantia="Un año">
+    <marca>Ford</marca>
+    <modelo color="azul">Focus</modelo>
+    <motor combustible="diesel">Duratore 2.0</motor>
+    <matricula año="2016-04">6954BCA</matricula>
+    <kilometros>134560</kilometros>
+    <precioOriginal>9500</precioOriginal>
+    <precioOferta>9000</precioOferta>
+    <extras>
+      <extra valor="250">Pintura metalizada</extra>
+      <extra valor="200">Spoiler trasero</extra>
+      <extra valor="500">Climatizador</extra>
+    </extras>
+  </vehiculo>
+  <vehiculo garantia="Un año">
+    <marca>Renault</marca>
+    <modelo color="gris">Space</modelo>
+    <motor combustible="diesel">Duratore 2.0</motor>
+    <matricula año="2010-09">9567ASW</matricula>
+    <kilometros>22000</kilometros>
+    <precioOriginal>5500</precioOriginal>
+    <precioOferta>4500</precioOferta>
+    <extras>
+      <extra valor="250">Pintura metalizada</extra>
+      <extra valor="600">Asientos última fila</extra>
+      <extra valor="500">Climatizador</extra>
+      <extra valor="250">Llantas</extra>
+    </extras>
+  </vehiculo>
+  <vehiculo garantia="Un año">
+    <marca>Renault</marca>
+    <modelo color="blanco">Space</modelo>
+    <motor combustible="diesel">Duratore 3.5</motor>
+    <matricula año="2015-10">1234BCD</matricula>
+    <kilometros>100000</kilometros>
+    <precioOriginal>25125</precioOriginal>
+    <precioOferta>22050.50</precioOferta>
+    <extras>
+      <extra valor="150">Llantas</extra>
+    </extras>
+  </vehiculo>
+</oferta>
